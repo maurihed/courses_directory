@@ -1,3 +1,0 @@
-webpack
-  Fundamentals - https://github.com/thelarkinn/webpack-workshop-2018
-  
